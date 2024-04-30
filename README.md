@@ -16,3 +16,5 @@ Product Categories and Subcategories: Products are organized into categories and
 PDF file: https://drive.google.com/drive/folders/1-Df4HY-gMZNrPpmwYInCqx4ErZRbhLEu?usp=sharing
 
 PPT file: https://drive.google.com/file/d/1m_E8T91MSoxMDloH1ekxfrTxqqzhngRO/view?usp=sharing
+
+Script: https://drive.google.com/file/d/1RcTq5urW35HqBM51DIerVE12zA_yiFRW/view?usp=sharing
