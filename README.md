@@ -14,4 +14,5 @@ Territories: Adventure Works operates in multiple regions, and the territories t
 Product Categories and Subcategories: Products are organized into categories and subcategories, providing a hierarchical structure for organizing inventory and facilitating product analysis.
 
 PDF file: https://drive.google.com/drive/folders/1-Df4HY-gMZNrPpmwYInCqx4ErZRbhLEu?usp=sharing
+
 PPT file: https://drive.google.com/file/d/1m_E8T91MSoxMDloH1ekxfrTxqqzhngRO/view?usp=sharing
