@@ -13,7 +13,7 @@ Orders and Order Details: Detailed information about individual orders, includin
 Territories: Adventure Works operates in multiple regions, and the territories table stores information about sales territories, including territory names and region details.
 Product Categories and Subcategories: Products are organized into categories and subcategories, providing a hierarchical structure for organizing inventory and facilitating product analysis.
 
-PDF file: https://drive.google.com/file/d/1m_E8T91MSoxMDloH1ekxfrTxqqzhngRO/view?usp=sharing
+PDF file: https://drive.google.com/file/d/1s_4HVZPTAqqzeKKWXZAfsxuK3d3kAnxF/view?usp=sharing
 
 PPT file: https://drive.google.com/file/d/1m_E8T91MSoxMDloH1ekxfrTxqqzhngRO/view?usp=sharing
 
